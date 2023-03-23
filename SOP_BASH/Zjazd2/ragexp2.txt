@@ -1,0 +1,4 @@
+Wyrazenie wyszukujace adresy mailowe:
+
+([a-zA-Z0-9]+)@([a-z]+)\.([a-z]{2,5})
+

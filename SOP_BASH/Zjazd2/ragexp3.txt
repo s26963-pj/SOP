@@ -1,0 +1,3 @@
+Wyrazenie sprawdzajce poprawnosc imienia oraz nazwiska z uzwglednieniem Polskich znakow:
+
+(^[A-Z][a-z]+) ([A-Z]\pL+$)
